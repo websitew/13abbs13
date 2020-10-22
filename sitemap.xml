@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+
+<url>
+		<loc>https://websitew.github.io/13abbs13/</loc>
+<lastmod> 2020-10-22</lastmod>
+<priority>1.00</priority>
+</url><url>
+		<loc>https://websitew.github.io/13abbs13/dog/index.html</loc>
+<lastmod> 2020-10-22 </lastmod>
+<priority>0.80</priority>
+ </url><url>
+		<loc>https://websitew.github.io/13abbs13/dog/As-a-companion-to-the-table,-search-engine.html</loc>
+<lastmod> 2020-10-22</lastmod>
+<priority>0.80</priority>
+</url><url>
+		<loc>https://websitew.github.io/13abbs13/garden/index.html</loc>
+<lastmod> 2020-10-22 </lastmod>
+<priority>0.80</priority>
+ </url><url>
+		<loc>https://websitew.github.io/13abbs13/garden/My-Garden.html</loc>
+<lastmod> 2020-10-22</lastmod>
+<priority>0.80</priority>
+</url><url>
+		<loc>https://websitew.github.io/13abbs13/New/index.html</loc>
+<lastmod> 2020-10-22 </lastmod>
+<priority>0.80</priority>
+ </url><url>
+		<loc>https://websitew.github.io/13abbs13/New/New-Posty.html</loc>
+<lastmod> 2020-10-22</lastmod>
+<priority>0.80</priority>
+</url><!--item-->
+</urlset>
